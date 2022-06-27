@@ -1,10 +1,7 @@
 /* ==UserStyle==
 @name         bilibili动态页优化
 @version      20220628.3.40
-@namespace    userstyles.world/user/noname
-@description  深度适配bilibili动态页，大量运用模糊与大圆角元素，背景采用php图床
-@author       noname
-@license      No License
+@description  适配bilibili动态页，大量运用大圆角元素，背景采用php随机图片API
 ==/UserStyle== */
 
 @-moz-document domain("t.bilibili.com") {
